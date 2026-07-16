@@ -16,6 +16,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://groweasy-ai-importer-two.vercel.app",
+      "https://groweasy-ai-importer-git-main-subham-kumar-sahanis-projects.vercel.app",
     ],
     methods: ["GET", "POST"],
     credentials: true,
